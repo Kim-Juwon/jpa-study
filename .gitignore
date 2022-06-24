@@ -21,6 +21,7 @@ target/
 
 ### Properties file ###
 src/main/resources/application.properties
+src/main/resources/META-INF/persistence.xml
 
 ### NetBeans ###
 /nbproject/private/
