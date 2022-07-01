@@ -1,17 +1,13 @@
 package com.example.jpastudy.jpabook.start.entity;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
-
+import javax.persistence.*;
 @Entity
-@Table(name="member")
+@Table(name="MEMBER")
 public class Member {
     @Id
-    @Column(name = "id")
+    @Column(name = "ID")
     private String id;
-    @Column(name = "name")
+    @Column(name = "NAME")
     private String username;
     private Integer age;
 
@@ -34,10 +30,5 @@ public class Member {
     }
     public Integer getAge() {
         return age;
-    }
-
-    @Override
-    public String toString() {
-        return super.toString();
     }
 }
