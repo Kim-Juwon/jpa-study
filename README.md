@@ -20,3 +20,4 @@ JPA 공부 및 내용 정리
 - [엔티티 매니저로 간단한 CRUD 실습해보기](https://blog.naver.com/damiano102777/222788340822) (2022.06.26)
 - [영속성 컨텍스트에 대하여](https://blog.naver.com/damiano102777/222791964802) (2022.06.29)
 - [플러시(flush)에 대하여](https://blog.naver.com/damiano102777/222794130931) (2022.06.30)
+- [준영속(Detached)](https://blog.naver.com/damiano102777/222796557021) (2022.07.01)
