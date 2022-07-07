@@ -37,3 +37,4 @@ ___
 
 #### 개인적인 정리
 - [엔티티 detach후 merge시 에러 발생에 대하여](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%EC%97%94%ED%8B%B0%ED%8B%B0%20detach%ED%9B%84%20merge%EC%8B%9C%20%EC%97%90%EB%9F%AC%20%EB%B0%9C%EC%83%9D%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md) (2022.07.02)
+- [JDBC와 Persistence 프레임워크](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/JDBC%EC%99%80%20Persistence%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md) (2022.07.07)
