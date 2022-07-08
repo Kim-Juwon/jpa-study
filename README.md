@@ -29,7 +29,8 @@ ___
 - [SQL 실행 방식](https://blog.naver.com/damiano102777/222797622459) (2022.07.02)
 
 ##### 4장. 엔티티 매핑
-- [테이블 매핑 어노테이션](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%A4%ED%95%91%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md) (2022.07.04)
+- [테이블 매핑](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%A4%ED%95%91%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md) (2022.07.04)
+- [기본 키 매핑](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%EA%B8%B0%EB%B3%B8%20%ED%82%A4%20%EB%A7%A4%ED%95%91.md) (2022.07.08)
 
 
 #### 실전! 스프링 부트와 JPA 활용
