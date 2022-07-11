@@ -33,6 +33,9 @@ ___
 - [기본 키 매핑](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%EA%B8%B0%EB%B3%B8%20%ED%82%A4%20%EB%A7%A4%ED%95%91.md) (2022.07.08)
 - [필드와 컬럼 매핑](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%ED%95%84%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%9F%BC%20%EB%A7%A4%ED%95%91.md) (2022.07.09)
 
+##### 5장. 연관관계 매핑 기초
+- [단방향 연관관계와 양방향 연관관계](https://blog.naver.com/damiano102777/222807922706) (2022.07.11)
+
 #### 실전! 스프링 부트와 JPA 활용
 - [JPA에서의 properties 파일 주요 속성](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/properties%20%ED%8C%8C%EC%9D%BC%20%EC%A3%BC%EC%9A%94%20%EC%86%8D%EC%84%B1%20.md) (2022.07.03)
 
