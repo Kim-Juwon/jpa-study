@@ -35,6 +35,7 @@ ___
 
 ##### 5장. 연관관계 매핑 기초
 - [단방향 연관관계와 양방향 연관관계](https://blog.naver.com/damiano102777/222807922706) (2022.07.11)
+- [@ManyToOne과 @JoinColumn](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/%40ManyToOne%EA%B3%BC%20%40JoinColumn.md) (2022.07.13)
 
 #### 실전! 스프링 부트와 JPA 활용
 - [JPA에서의 properties 파일 주요 속성](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/properties%20%ED%8C%8C%EC%9D%BC%20%EC%A3%BC%EC%9A%94%20%EC%86%8D%EC%84%B1%20.md) (2022.07.03)
