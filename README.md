@@ -35,7 +35,7 @@ ___
 
 ##### 5장. 연관관계 매핑 기초
 - 핵심 키워드
-  - 다중성 
+  - [다중성](https://github.com/Kim-Juwon/today-i-learned/blob/main/jpa/JPA%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EC%A4%91%EC%84%B1%20.md) 
   - [방향](https://blog.naver.com/damiano102777/222807922706)
   - [연관관계의 주인](https://blog.naver.com/damiano102777/222822536268)
 - 어노테이션
